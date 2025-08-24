@@ -1,6 +1,6 @@
 # 🍃 Leaf Detection Model
 
-This project aims to detect and classify leaf types using a deep learning model trained on a custom dataset. The pipeline includes data preprocessing, model training, and real-time inference. Built using PyTorch and Jupyter notebooks.
+This project aims to detect and classify leafs using a deep learning model trained on a custom dataset. The pipeline includes data preprocessing, model training, and real-time inference. Built using PyTorch and Jupyter notebooks.
 
 ---
 
